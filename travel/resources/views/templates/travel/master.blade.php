@@ -1,0 +1,5 @@
+@include('templates.travel.header')
+@yield('css')
+@yield('js')
+@yield('content')
+@include('templates.travel.footer')
